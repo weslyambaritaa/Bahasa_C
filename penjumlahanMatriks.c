@@ -5,7 +5,6 @@ int main (){
 
 int baris;
 int kolom;
-// int matriks[100][100];
 
 printf("Masukkan jumlah baris (M) ");
 scanf("%d", &baris);
